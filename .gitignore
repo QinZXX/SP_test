@@ -1,1 +1,4 @@
 *.opendb
+# clion
+*.idea
+cmake-build-*
